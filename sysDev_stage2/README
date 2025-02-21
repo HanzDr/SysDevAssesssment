@@ -1,5 +1,0 @@
-## Endpoints:
-- POST /api/members  (Add a new member)
-- GET /api/projects/:id/members  (Retrieve project members)
-
-Tested using postman
